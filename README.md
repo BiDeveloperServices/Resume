@@ -1,4 +1,4 @@
-<h1>Hi, I'm Crystie! <br/><a href="https://github.com/BiDeveloperServices">Developer</a>, <a href="https://www.linkedin.com/in/MrsCrystie/">Sr. Data Engineer / Data Architect Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Crystie! <br/><a href="https://github.com/BiDeveloperServices">Developer</a>, <a href="https://www.linkedin.com/in/MrsCrystie/">Sr. Data Engineer / Data Architect Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
