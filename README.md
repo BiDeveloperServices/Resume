@@ -140,8 +140,8 @@ University of Georgia
 <br><br>
 
 **Additional Skills**<br>
-•	Database Development: Star/Snowflake schema, views, stored procedures, constraints, triggers, joins, cursors, CTE, temp tables, table variables, functions, batch scripts, workflows.
-•	Writing complex T-SQL/PL-SQL code, ETL processes, file transfer, data discovery, data profiling, programming, data modeling, database design, root cause analysis, reporting and analytics, SDLC, performance tuning, and optimization.
+•	Database Development: Star/Snowflake schema, views, stored procedures, constraints, triggers, joins, cursors, CTE, temp tables, table variables, functions, batch scripts, workflows.<br>
+•	Writing complex T-SQL/PL-SQL code, ETL processes, file transfer, data discovery, data profiling, programming, data modeling, database design, root cause analysis, reporting and analytics, SDLC, performance tuning, and optimization.<br>
 •	Performed a wide range of technical and analytical work related to DW/DM development, maintenance, and processes. Provided leadership, subject matter expertise and project management to multiple projects at various stages in the requirements process and various levels of complexity while consistently meeting deadlines, exceeding expectations, and producing high-quality deliverables on time and on budget. Proficient in SQL Server, Oracle, Teradata, Azure Data Factory and MySQL databases (Development/Admin Level).
 <br><br>
 
