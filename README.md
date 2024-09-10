@@ -12,7 +12,7 @@ BIDeveloperServices@gmail.com<br>
 Atlanta, GA ▪ 1+ 470-377-1316
 <br><br>
 
-**Professional Summary** <br>
+## Professional Summary <br>
 For over twenty years, my career focus has been centered around Business Intelligence and Data Warehouse system design, with comprehensive hands-on 
 expertise in managing large-scale database systems, Software Development, Data Warehouse, Data Migrations / Integrations, and ETL Architecture, Big Data, 
 SQL / ETL Development, Report Development and Data Visualization, with the ability to apply technical skills for business resolutions and the ability to 
@@ -22,7 +22,7 @@ Strong leader and collaborator with a track record of delivering innovative data
 ability to think outside of the box to resolve complex issues.
 <br><br>
 
-**Technical Skills** <br><br>
+## Technical Skills <br><br>
 **Database Platforms	Languages** <br>
 •	SQL Server 2019 and older versions		T-SQL, PL/SQL<br>
 •	MS Visual Studio 2019 and older versions 		UNIX Shell Script, XML, Batch Files<br>
@@ -50,7 +50,7 @@ ability to think outside of the box to resolve complex issues.
 •	Microsoft – SSRS, Tableau and PowerBI Desktop Services<br>
 •	Pentaho report Designer (PROD and CDE), SharePoint<br>
 •	Microsoft Office All versions (Excel, Access, and PowerPoint)<br>
-•	SFTP - WinSCP, Putty Pigeon, FileZilla<br>
+•	SFTP - WinSCP, Putty Pigeon, FileZilla
 <br><br>
 
 ## 👩🏼‍💻 Professional Experience 
@@ -72,7 +72,7 @@ Sr. SQL Developer / Data Architect - Responsible for analyzing and articulating 
 •	Enhanced query performance by 30% through scalable database solutions.<br> 
 •	Led a team of three junior developers, improving team efficiency by 20%.<br> 
 •	Conducted performance tuning and query optimization.<br>
-•	Worked remotely and collaborated with colleagues in France.<br>
+•	Worked remotely and collaborated with colleagues in France.
 <br><br>
 
 **Fortna (Formerly MHS Global), Atlanta, GA** 
@@ -110,7 +110,7 @@ Sr. SQL Developer / Data Architect - Responsible for designing, implementing, an
 •	Collaborated with stakeholders, Developers, Angular Developers and other team members to build front and backend applications and implement API security measures.<br>
 •	Designed and developed end-to-end ETL solutions for complex projects using Microsoft SQL Server Integration Services (SSIS) via Visual Studios v19 to obtain data from source systems then transform, cleanse, or enhance data; to provide data to OLAP systems data warehouse applications.<br>
 •	Used Jira, SourceSafe, GIT and SharePoint to log code.<br>
-•	Wrote complex T-SQL, PL/SQL, BTEQ programming, including SQL queries (DDL, DML, DCL, DAX, MDX and TCL), Packages, Procedures, Functions, Cursors, Triggers, Indexes, Partitions, workflows, etc... Worked on multiple platforms such as WINDOWS/UNIX/SOLARIS/LINUX -Users, User Groups, Folders, User Roles, Profiles & Privileges. Expertise in UNIX shell scripting using named functions, scripts, and SQL loader. Experience with secure file transfer methods, FileZilla, GIT, SFTP and WinSCP.<br>
+•	Wrote complex T-SQL, PL/SQL, BTEQ programming, including SQL queries (DDL, DML, DCL, DAX, MDX and TCL), Packages, Procedures, Functions, Cursors, Triggers, Indexes, Partitions, workflows, etc... Worked on multiple platforms such as WINDOWS/UNIX/SOLARIS/LINUX -Users, User Groups, Folders, User Roles, Profiles & Privileges. Expertise in UNIX shell scripting using named functions, scripts, and SQL loader. Experience with secure file transfer methods, FileZilla, GIT, SFTP and WinSCP.
 <br><br>
 
 **JP Business Solutions, Inc.** 
