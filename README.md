@@ -7,7 +7,7 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
 <h2> 🤳 Connect with me:</h2>
-www.LinkedIn/in/MrsCrystie<br>
+www.LinkedIn.com/in/MrsCrystie<br>
 BIDeveloperServices@gmail.com<br> 
 Atlanta, GA ▪ 1+ 470-377-1316
 
