@@ -23,27 +23,27 @@ Strong leader and collaborator with a track record of delivering innovative data
 ability to think outside of the box to resolve complex issues.
 <br><br>
 
-**Technical Skills** 
+**Technical Skills** <br><br>
 **Database Platforms	Languages** <br>
-•	SQL Server 2019 and older versions		T-SQL, PL/SQL
-•	MS Visual Studio 2019 and older versions 		UNIX Shell Script, XML, Batch Files
-•	Oracle 8.05 / 9i / 10g / 11g / 12c
-•	Teradata v13, MYSQL v5.6		Course work – C++, Python Perl, and .Net 
-•	TFS (Team Foundation Services),  Azure Data Catalog		Knowledge - Java, JavaScript, C, C++, XHTML, HTML
+•	SQL Server 2019 and older versions		T-SQL, PL/SQL<br>
+•	MS Visual Studio 2019 and older versions 		UNIX Shell Script, XML, Batch Files<br>
+•	Oracle 8.05 / 9i / 10g / 11g / 12c<br>
+•	Teradata v13, MYSQL v5.6		Course work – C++, Python Perl, and .Net<br>
+•	TFS (Team Foundation Services),  Azure Data Catalog		Knowledge - Java, JavaScript, C, C++, XHTML, HTML<br>
 •	UNIX/Linux
 <br><br>
 
 **BI / ETL Tools**<br>
-•	Microsoft – SSMS, SSIS, SSAS
-•	Oracle ODI, Informatica v9.2, Wherescape Red, Pentaho (Kettle/Spoon)
-•	Azure Data Factory / DevOps (TFS - Microsoft Teams Foundation Server)
-•	Knowledge of Enterprise API Integration (SOAP/REST, WebSocket, REST, RPC)
-•	API Web Services (JSON, XML - Files)
-•	TOAD v12.1, Data Junction, DataStage and DJ Cosmos
-•	Conference tools – Teams, Zoom and Skype
-•	Oracle PL/SQL Developer, SQL Navigator, SQL Plus
-•	Erwin r7, Power Designer, Visio, Siebel Analytics
-•	Version Control (SVN Tortoise), SourceSafe, GitHub, Bitbucket, DevOps (formerly TFS)
+•	Microsoft – SSMS, SSIS, SSAS<br>
+•	Oracle ODI, Informatica v9.2, Wherescape Red, Pentaho (Kettle/Spoon)<br>
+•	Azure Data Factory / DevOps (TFS - Microsoft Teams Foundation Server)<br>
+•	Knowledge of Enterprise API Integration (SOAP/REST, WebSocket, REST, RPC)<br>
+•	API Web Services (JSON, XML - Files)<br>
+•	TOAD v12.1, Data Junction, DataStage and DJ Cosmos<br>
+•	Conference tools – Teams, Zoom and Skype<br>
+•	Oracle PL/SQL Developer, SQL Navigator, SQL Plus<br>
+•	Erwin r7, Power Designer, Visio, Siebel Analytics<br>
+•	Version Control (SVN Tortoise), SourceSafe, GitHub, Bitbucket, DevOps (formerly TFS)<br>
 •	Scheduler (Tivoli) and many other analytical tools
 <br><br>
 
@@ -77,7 +77,7 @@ Sr. SQL Developer / Data Architect - Responsible for analyzing and articulating 
 <br><br>
 
 **Fortna (Formerly MHS Global), Atlanta, GA** 
-Sr. SQL Developer / Data Architect - Oct. 2021 – Jan. 2023<br>  
+Sr. SQL Developer / Data Architect - Oct. 2021 – Jan. 2023<br>
 Sr. SQL Developer / Data Architect - Responsible for analyzing and articulating complex system requirements and the subsequent development of Databases, Schemas, Data Visualization, ETL Development, Reporting, analytical, and dashboard solutions for the Business intelligence (BI) platform spanning business domains across MHS. Agile (Kanban /Scrum). Successfully migrated 30+ applications to Azure. Implemented DevOps best practices that reduced deployment times by 80% and increased application availability to 99.9%. This opportunity was100% remote. 
 
 •	Migrated 30+ applications to Azure, reducing deployment times by 80%. 
