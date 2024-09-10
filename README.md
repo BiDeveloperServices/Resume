@@ -1,4 +1,4 @@
-<h1>Greetings, I'm Crystie Johnson! <br/><a href="https://github.com/BiDeveloperServices">Developer</a>, <a href="https://www.linkedin.com/in/MrsCrystie/">Sr. Data Engineer / Data Architect Professional</a>
+<h1>Greetings, I'm Crystie Johnson! <br/><a href="https://github.com/BiDeveloperServices"><a href="https://www.linkedin.com/in/MrsCrystie/"> Sr. Data Engineer / Data Architect Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
