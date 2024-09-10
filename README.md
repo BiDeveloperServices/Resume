@@ -10,7 +10,6 @@
 www.LinkedIn.com/in/MrsCrystie<br>
 BIDeveloperServices@gmail.com<br> 
 Atlanta, GA ▪ 1+ 470-377-1316
-
 <br><br>
 
 **Professional Summary** <br>
