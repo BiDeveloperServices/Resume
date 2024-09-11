@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/BiDeveloperServices/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack Web App (React, NodeJS, Azure, AWS, and Machine Learning Components)</b>
 
 <h2> 🤳 Connect with me:</h2>
 www.LinkedIn.com/in/MrsCrystie<br>
