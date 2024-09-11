@@ -13,16 +13,10 @@ Atlanta, GA ▪ 1+ 470-377-1316
 <br><br>
 
 ## Professional Summary <br>
-For over twenty years, my career focus has been centered around Business Intelligence and Data Warehouse system design, with comprehensive hands-on 
-expertise in managing large-scale database systems, Software Development, Data Warehouse, Data Migrations / Integrations, and ETL Architecture, Big Data, 
-SQL / ETL Development, Report Development and Data Visualization, with the ability to apply technical skills for business resolutions and the ability to 
-switch easily between different projects with the flexibility to handle rapidly changing environments.  Thus, allowing the application of extensive experience
-across multiple Database types and platforms and provided a strong aptitude for multidimensional database design coupled with robust operational architectures
-Strong leader and collaborator with a track record of delivering innovative data solutions that support strategic business goals. Creative thinker with the 
-ability to think outside of the box to resolve complex issues.
-<br><br>
+For over twenty years, my career focus has been centered around Business Intelligence and Data Warehouse system design, with comprehensive hands-on expertise in managing large-scale database systems, software development, data warehousing, data migrations/integrations, and ETL architecture. Skilled in Big data, SQL/ETL development, report development, and data visualization. Capable of applying technical skills to business solutions and adapting to rapidly changing environments. Demonstrates extensive experience across multiple database types and platforms, with a strong aptitude for multidimensional database design and robust operational architectures. A strong leader and collaborator with a track record of delivering innovative data solutions that support strategic business goals. A creative thinker adept at resolving complex issues through unconventional approaches.
+<br>
 
-## Technical Skills <br><br>
+## Technical Skills <br>
 **Database Platforms	Languages** <br>
 •	SQL Server 2019 and older versions		T-SQL, PL/SQL<br>
 •	MS Visual Studio 2019 and older versions 		UNIX Shell Script, XML, Batch Files<br>
@@ -30,7 +24,7 @@ ability to think outside of the box to resolve complex issues.
 •	Teradata v13, MYSQL v5.6		Course work – C++, Python Perl, and .Net<br>
 •	TFS (Team Foundation Services),  Azure Data Catalog		Knowledge - Java, JavaScript, C, C++, XHTML, HTML<br>
 •	UNIX/Linux
-<br><br>
+<br>
 
 **BI / ETL Tools**<br>
 •	Microsoft – SSMS, SSIS, SSAS<br>
@@ -44,14 +38,14 @@ ability to think outside of the box to resolve complex issues.
 •	Erwin r7, Power Designer, Visio, Siebel Analytics<br>
 •	Version Control (SVN Tortoise), SourceSafe, GitHub, Bitbucket, DevOps (formerly TFS)<br>
 •	Scheduler (Tivoli) and many other analytical tools
-<br><br>
+<br>
 
 **Reporting and Visualization Tools**<br>
 •	Microsoft – SSRS, Tableau and PowerBI Desktop Services<br>
 •	Pentaho report Designer (PROD and CDE), SharePoint<br>
 •	Microsoft Office All versions (Excel, Access, and PowerPoint)<br>
 •	SFTP - WinSCP, Putty Pigeon, FileZilla
-<br><br>
+<br>
 
 ## 👩🏼‍💻 Professional Experience 
 **Dassault Falcon Jet, Atlanta, GA** 
@@ -115,13 +109,14 @@ Sr. SQL Developer / Data Architect - Responsible for designing, implementing, an
 
 **JP Business Solutions, Inc.** 
 Consultant - Nov. 1995 – Mar. 2020<br> 
-OPM (Government), CGI, AT&T, Home Depot, Auto Trader, SI-Ops, Cox Enterprise, Comcast, Coca-Coca-Cola Enterprise, Northrop Grumman, SPH Analytics, MiMedix, UPS, NBIS, CareDental, BBVA Bank, BellSouth Cellular Corp and BellSouth Mobility, PRG-Schultz, Bank of America, Nations Bank, Amoco Foam, Children's Hospital, Kaiser Permanente, Global Network Services.
+OPM (Government), CGI, AT&T, Home Depot, Auto Trader, SI-Ops, Cox Enterprise, Comcast, Coca-Coca-Cola Enterprise, Northrop Grumman, SPH Analytics, MiMedix, UPS, NBIS, CareDental, BBVA Bank, BellSouth Cellular Corp and BellSouth Mobility, PRG-Schultz, Bank of America, Nations Bank, Amoco Foam, Children's Hospital, Kaiser Permanente, Global Network Services.<br>
 
 •	Worked with various clients to create and maintain data solutions. <br>
 •	Managed several data migrations / Integrations from legacy systems to the current systems which included Oracle, SQL Server, SAP, Teradata, MySQL, and various other systems.<br>
 •	Expertise in designing and developing interfaces, packages, with Design, Development and implementation of the Data warehousing Projects using ETL Tools - Oracle data integrator (ODI), Informatica, SSIS, Cosmos and DBT tools.<br>
 •	Experience in Development and support of Data warehouse applications Extraction, transformation, and loading (ETL) using ODI, Informatica, SSIS, Cosmos and DBT tools.<br> 
-•	Utilized ODI designer for designing the interfaces, defining the data stores, interfaces and. packages, used variable and modified the ODI knowledge modules (RKM, LKM, I KM, CKM, JKM) to create interfaces for data cleansing, load, and transformation of data from the source to the target databases. Configuration of TNS names and parameter files. ▪ Collaborated closely with clients to analyze IT system requirements, client information technology needs and their resources in order to plan IT projects and client fulfillment expectations such as Life Cycle development of Datawarehouse and Datamarts.<br>
+•	Utilized ODI designer for designing the interfaces, defining the data stores, interfaces and. packages, used variable and modified the ODI knowledge modules (RKM, LKM, I KM, CKM, JKM) to create interfaces for data cleansing, load, and transformation of data from the source to the target databases. Configuration of TNS names and parameter files.<br>
+▪ Collaborated closely with clients to analyze IT system requirements, client information technology needs and their resources in order to plan IT projects and client fulfillment expectations such as Life Cycle development of Datawarehouse and Datamarts.<br>
 •	Developed comprehensive data models and database schemas.<br> 
 •	Designed and implemented robust ETL processes using tools like Spark and Airflow, optimizing data workflows and improving efficiency.<br>
 •	Extensive work in ETL Framework (SSIS, SSAS, ODI, Informatica and Coding) development including data mappings and roadmap, workflow development, building cubes, process monitoring, performance tuning, testing, job scheduling and implementation/deployment of ETL processes using various tools and programming code. Design, develop, and maintain efficient and scalable data pipelines to collect, process, and store data from various sources.<br>
@@ -131,7 +126,7 @@ OPM (Government), CGI, AT&T, Home Depot, Auto Trader, SI-Ops, Cox Enterprise, Co
 •	Worked extensively with the Spark ecosystem, including Spark SQL, DataFrames, and Datasets, to develop scalable data processing solutions.<br>
 •	Managed Streaming ETL processes using Kafka, Flink, and Spark Streaming, enabling real-time data processing for critical applications.<br>
 •	Coordinated with stakeholders to gather requirements, define data architecture, and deliver data solutions that met business needs.
-<br><br>
+<br>
 
 ## 👩🏼‍🎓 Education
 Bachelor of Science in Computer Science<br>
